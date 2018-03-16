@@ -1,1 +1,2 @@
 This is the new file which I created in the new branch.
+This line is going to conflict the merge.
